@@ -1,6 +1,15 @@
 # fatchhh
+tugas mobile 2 membuat aplikasi dart fetching API
+anggota : Muhamad Syamsu Nuryaman -  22552012035
 
-A new Flutter project.
+
+screenshoot hasil running :
+Gambar 1 : https://github.com/user-attachments/assets/04c224d1-69ec-4e43-8270-410ff96d7415
+Gambar 2 : https://github.com/user-attachments/assets/8f569c2c-851c-4d80-a9f3-7135c37483d8
+Gambar 3 : https://github.com/user-attachments/assets/14d961e9-4ea2-4d08-8fed-a5c7cf69bea5
+
+
+
 
 ## Getting Started
 
