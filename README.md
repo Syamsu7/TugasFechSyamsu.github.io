@@ -1,6 +1,6 @@
 # fatchhh
-tugas mobile 2 membuat aplikasi dart fetching API
-anggota : Muhamad Syamsu Nuryaman -  22552012035
+Tugas pemrograman mobile 2 membuat aplikasi dart fetching API
+, Anggota : Muhamad Syamsu Nuryaman -  22552012035
 
 
 screenshoot hasil running :
